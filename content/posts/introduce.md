@@ -10,7 +10,7 @@ categories:
   - category: other
 meta:
   canonicalLink: ''
-  description: test meta description
+  description: はじめまして。投資家プログラマーのひろです。
   noindex: false
   title: 投資家プログラマーの日記
 ---
