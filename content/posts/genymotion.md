@@ -14,3 +14,12 @@ meta:
   noindex: false
   title: 投資家プログラマーの日記
 ---
+テスト
+```bash
+$ npm run deploy
+```
+
+コード  
+```json
+"deploy": "gatsby build && firebase deploy"
+```
