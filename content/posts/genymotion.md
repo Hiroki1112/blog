@@ -1,16 +1,16 @@
 ---
 template: SinglePost
-title: 初めての投稿
+title: Genymotionのインストール方法
 status: Featured / Published
 date: '2020-04-10'
 featuredImage: '/images/cat.jpg'
 excerpt: >-
         none
 categories:
-  - category: other
+  - category: プログラミング
 meta:
   canonicalLink: ''
-  description: はじめまして。投資家プログラマーのひろです。
+  description: 今回はアーチェリーで使用する近射台の作り方について書いていこうと思ます。
   noindex: false
   title: 投資家プログラマーの日記
 ---
