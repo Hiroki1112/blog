@@ -65,6 +65,7 @@ export class Navigation extends Component {
           </div>
           <button
             className="Button-blank Nav--MenuButton"
+            aria-label="ナビゲーションメニューの表示"
             onClick={this.handleMenuToggle}
           >
             {active ? <X /> : <Menu />}
