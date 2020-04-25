@@ -4,7 +4,7 @@ title: test
 status: Published
 date: '2020-04-25'
 featuredImage: >-
-  /images/post1.jpg
+  ../images/post1.jpg
 excerpt: >- 
         test post
 categories:

@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: カライモンのブログ
-featuredImage: /images/top.png
+featuredImage: ../images/top.png
 subtitle: ''
 meta:
   description: カライモンのブログです。投資やプログラミングなどについて暇なときに投稿していこうと思います。
