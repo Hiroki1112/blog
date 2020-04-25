@@ -1,11 +1,12 @@
 ---
 template: SinglePost
 title: test
-status: Featured / Published
+status: Published
 date: '2020-04-25'
 featuredImage: >-
   /images/post1.jpg
-excerpt: >- test
+excerpt: >- 
+        test post
 categories:
   - category: Archery
 meta:
