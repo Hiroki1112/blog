@@ -2,6 +2,6 @@
 template: BlogIndex
 title: 株式投資
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: ../../images/invest.png
 ---
 

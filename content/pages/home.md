@@ -1,11 +1,11 @@
 ---
 template: HomePage
 slug: ''
-title: Home
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: カライモンのブログ
+featuredImage: /images/top.png
+subtitle: ''
 meta:
-  description: This is a meta description.
-  title: 投資家プログラマーの日記
+  description: カライモンのブログです。投資やプログラミングなどについて暇なときに投稿していこうと思います。
+  title: カライモン's blog
 ---
 作成中
