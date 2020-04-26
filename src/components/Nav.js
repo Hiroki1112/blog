@@ -50,9 +50,6 @@ export class Navigation extends Component {
           </Link>
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
-            <NavLink to="/blog/">
-                    全ての投稿
-            </NavLink>
             {subNav.posts.map((link, index) => (
                     <NavLink
                       to={link.slug}
