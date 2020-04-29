@@ -1,5 +1,5 @@
 ---
-template: BlogIndex
+template: HomePage
 slug: ''
 title: カライモンのブログ
 featuredImage: ../images/top.png
